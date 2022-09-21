@@ -1,6 +1,7 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using HomeUtilities.Models;
+using Microsoft.Extensions.Logging;
 
 namespace HomeUtilities.Controllers;
 
